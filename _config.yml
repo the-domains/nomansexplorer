@@ -1,14 +1,28 @@
-layout_spectrum: 0.5591398
+name: Nomansexplorer
+favicon: null
+layout_spectrum: 0.75374
+typography_spectrum: 0.297491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7419355
-  brandStrength: 0.8494624
-  lightness: 0.7544803
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#DC143C'
     - '#BFBFBF'
     - '#7F7F7F'
+  brandStrength: 0.8494624
+  lightness: 0.7544803
+  saturation: 0.7419355
   rhythmicContrast: 0.6684588
-typography_spectrum: 0.297491
-name: Nomansexplorer
+purpose: []
