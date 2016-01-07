@@ -2,6 +2,7 @@ name: Nomansexplorer
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.24339
+title: No Mans Explorer
 cta:
   domain: null
   bucket: null
