@@ -1,6 +1,6 @@
-name: Nomansexplorer
+name: No Mans Explorer
 favicon: null
-layout_spectrum: 0.30925
+layout_spectrum: 1
 typography_spectrum: 0.02952
 title: No Mans Explorer
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
+    - '#3f3f3f'
     - '#ffffff'
-    - '#433b45'
-    - '#f30d18'
-    - '#b49b99'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.125
-  rhythmicContrast: 0.25
+    - '#b6494e'
+    - '#979797'
+    - '#d7d7d7'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
