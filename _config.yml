@@ -1,6 +1,6 @@
 name: No Mans Explorer
 favicon: null
-layout_spectrum: 0.6822
+layout_spectrum: 0.38734
 typography_spectrum: 0.20097
 title: No Mans Explorer
 collections:
@@ -35,7 +35,7 @@ color:
     - '#979797'
     - '#d7d7d7'
   brandStrength: 0.4851064
-  lightness: 0.6893617
+  lightness: 0.3125
   saturation: 1
   rhythmicContrast: 0.25
 purpose: []
