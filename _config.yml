@@ -1,41 +1,41 @@
-name: No Mans Explorer
-favicon: null
-layout_spectrum: 0.38734
-typography_spectrum: 0.20097
 title: No Mans Explorer
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0.4851064
+  lightness: 0.3125
   brandColors:
     - '#3f3f3f'
     - '#ffffff'
     - '#b6494e'
     - '#979797'
     - '#d7d7d7'
-  brandStrength: 0.4851064
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: No Mans Explorer
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.20097
+layout_spectrum: 0.38734
