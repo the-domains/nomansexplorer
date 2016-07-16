@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.4851064
-  rhythmicContrast: 1
+  brandStrength: 0.8828321
+  lightness: 0.7368421
   brandColors:
     - '#3f3f3f'
     - '#ffffff'
     - '#b6494e'
     - '#979797'
     - '#d7d7d7'
-  lightness: 0.7368421
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: No Mans Explorer
+favicon: null
 opengraph:
   image: null
   type: null
