@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>https://thegrid.ai/nomansexplorer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:11:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomansexplorer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/nomansexplorer/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a917cb83-8e37-44e5-af4c-9c3a3d5dcf3d.gif">]]></description>
+            <link>https://thegrid.ai/nomansexplorer/6f4d9cde-2ef8-4b97-bedf-d514cf780f90/index.html</link>
+            <guid isPermaLink="false">6f4d9cde-2ef8-4b97-bedf-d514cf780f90</guid>
+            <pubDate>Tue, 19 Jul 2016 13:11:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Man's Sky - EXPLORE Trailer | PS4]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac2bce9-904b-4f98-824a-1ba46243ce79.jpg</link>
             <guid isPermaLink="false">23415283-70da-41c4-9ef8-88ddd7a87833</guid>
             <pubDate>Tue, 12 Jul 2016 08:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take off]]></title>
-            <description><![CDATA[<article><h1>Take off</h1><p>One month until take off... </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f481680-194b-4657-b5cc-4446eb30ec13.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f481680-194b-4657-b5cc-4446eb30ec13.jpg</link>
-            <guid isPermaLink="false">a76c18b3-f5a0-4d5a-b716-58061e127065</guid>
-            <pubDate>Sun, 10 Jul 2016 11:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
