@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/13bf219a-a836-42e5-b608-a76b35dd6cc7.jpg
 name: No Mans Explorer
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb38229-99c9-4f3b-adc6-39d5eaf26ac2.png
 collections:
   - index:
       path: /
