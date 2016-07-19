@@ -4,8 +4,15 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>https://thegrid.ai/nomansexplorer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 08:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:00:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomansexplorer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No Man's Sky - EXPLORE Trailer | PS4]]></title>
+            <description><![CDATA[<article><h1>No Man's Sky - EXPLORE Trailer | PS4</h1><p>https://www.playstation.com/en-us/games/no-mans-sky-ps4/ Your Universe Awaits There are 18 quintillion planets in the game. Even if each planet was visited at a rate of one per second, it would take five billion years to explore them all - by which the Sun in our solar system would have burnt out, essentially giving the game a near infinite number of worlds to explore!</p></article>]]></description>
+            <link>https://youtu.be/7AVmI73va4g</link>
+            <guid isPermaLink="false">8e749c18-c0f8-4064-af8f-92145b5ca72d</guid>
+            <pubDate>Tue, 19 Jul 2016 12:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[21 Days until Lift Off]]></title>
             <description><![CDATA[<article><h1>21 Days until Lift Off</h1><p>Our universe is a sorry little affair unless it has in it something for every age to investigate.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/046e576b-5804-4db9-a011-b24e28ee6fe3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomansexplorer/82188866-84b6-4be2-93f4-9f16190152e3/index.html</link>
             <guid isPermaLink="false">82188866-84b6-4be2-93f4-9f16190152e3</guid>
             <pubDate>Thu, 07 Jan 2016 20:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a302f30-c329-4b6c-ab5a-b9378942841a.jpg">]]></description>
-            <link>https://thegrid.ai/nomansexplorer/5d80275c-dd92-4815-9f79-fe64f776bef1/index.html</link>
-            <guid isPermaLink="false">5d80275c-dd92-4815-9f79-fe64f776bef1</guid>
-            <pubDate>Thu, 07 Jan 2016 14:26:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
