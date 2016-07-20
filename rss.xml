@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[No Mans Explorer]]></title>
         <description><![CDATA[No Mans Explorer]]></description>
-        <link>https://thegrid.ai/nomansexplorer/</link>
+        <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:13:04 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/nomansexplorer/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 06:53:31 GMT</lastBuildDate>
+        <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f252b3ff-1bdf-42f0-ab35-e82f59e7ea88.jpg">]]></description>
-            <link>https://thegrid.ai/nomansexplorer/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
+            <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 20 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 20 Days</h1><p>One small step for man</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c9fd914-9f86-433a-abaa-b799808ea720.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c9fd914-9f86-433a-abaa-b799808ea720.jpg</link>
+            <guid isPermaLink="false">da047930-d539-4214-9bd4-eff4472f6274</guid>
+            <pubDate>Wed, 20 Jul 2016 06:53:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Man's Sky - EXPLORE Trailer | PS4]]></title>
@@ -23,7 +30,7 @@
         <item>
             <title><![CDATA[21 Days until Lift Off]]></title>
             <description><![CDATA[<article><h1>21 Days until Lift Off</h1><p>Our universe is a sorry little affair unless it has in it something for every age to investigate.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/046e576b-5804-4db9-a011-b24e28ee6fe3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomansexplorer/21-days-until-lift-off/index.html</link>
+            <link>http://nomansexplorer.com/21-days-until-lift-off/index.html</link>
             <guid isPermaLink="false">35b115dd-b2f1-4b71-9acc-f09541c1ddec</guid>
             <pubDate>Tue, 19 Jul 2016 08:34:32 GMT</pubDate>
         </item>
@@ -44,14 +51,14 @@
         <item>
             <title><![CDATA[25 days until lift off ]]></title>
             <description><![CDATA[<article><h1>25 days until lift off </h1><p>The thing I'll remember most about the flight is that it was fun. In fact, I'm sure it was the most fun that I'll ever have in my life. — Sally K.</p></article>]]></description>
-            <link>https://thegrid.ai/nomansexplorer/25-days-until-lift-off/index.html</link>
+            <link>http://nomansexplorer.com/25-days-until-lift-off/index.html</link>
             <guid isPermaLink="false">94a2f76d-3ad3-433d-99c8-817c5d49c729</guid>
             <pubDate>Fri, 15 Jul 2016 08:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1801bbb4-08a7-4d13-8d61-3a7c62b97056.jpg">]]></description>
-            <link>https://thegrid.ai/nomansexplorer/if-offered-a-seat-on-a-rocket-ship-dont-ask-what-seat-ju/index.html</link>
+            <link>http://nomansexplorer.com/if-offered-a-seat-on-a-rocket-ship-dont-ask-what-seat-ju/index.html</link>
             <guid isPermaLink="false">ad7d8210-e74d-44bb-8441-4bd3aaf8842c</guid>
             <pubDate>Thu, 14 Jul 2016 08:12:16 GMT</pubDate>
         </item>
