@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 09:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 09:23:40 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No Man's Sky | Pillar 2 - Fight Trailer]]></title>
+            <description><![CDATA[<article><h1>No Man's Sky | Pillar 2 - Fight Trailer</h1><p>Fight to survive. Your universe awaits. Discover more: http://bit.ly/29MvItS Pre-order now: http://bit.ly/1T3vvBC Lands 10/08/16</p></article>]]></description>
+            <link>https://youtu.be/FqrOeqGTRJM</link>
+            <guid isPermaLink="false">5df67045-7ec9-4363-96e2-5a1cdd816523</guid>
+            <pubDate>Thu, 21 Jul 2016 09:22:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 19 Days]]></title>
@@ -68,13 +75,6 @@
             <link>http://nomansexplorer.com/if-offered-a-seat-on-a-rocket-ship-dont-ask-what-seat-ju/index.html</link>
             <guid isPermaLink="false">ad7d8210-e74d-44bb-8441-4bd3aaf8842c</guid>
             <pubDate>Thu, 14 Jul 2016 08:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35d55ffc-35ac-405b-911d-b53bd2beafcf.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/35d55ffc-35ac-405b-911d-b53bd2beafcf.jpg</link>
-            <guid isPermaLink="false">55920059-5aba-4f02-8323-9145ff65bb67</guid>
-            <pubDate>Wed, 13 Jul 2016 09:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
