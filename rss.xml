@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 09:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 09:22:05 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 19 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 19 Days</h1><p>Astronomy compels the soul to look upward, and leads us from this world to another.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a2dd34-3442-4234-842a-68ac84bdae9a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a2dd34-3442-4234-842a-68ac84bdae9a.jpg</link>
+            <guid isPermaLink="false">cd944765-bf7d-486e-bd3c-10bd3396fe9c</guid>
+            <pubDate>Thu, 21 Jul 2016 09:22:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 20 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/35d55ffc-35ac-405b-911d-b53bd2beafcf.jpg</link>
             <guid isPermaLink="false">55920059-5aba-4f02-8323-9145ff65bb67</guid>
             <pubDate>Wed, 13 Jul 2016 09:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac2bce9-904b-4f98-824a-1ba46243ce79.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac2bce9-904b-4f98-824a-1ba46243ce79.jpg</link>
-            <guid isPermaLink="false">23415283-70da-41c4-9ef8-88ddd7a87833</guid>
-            <pubDate>Tue, 12 Jul 2016 08:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
