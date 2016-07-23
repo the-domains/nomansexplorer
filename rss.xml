@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 08:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 09:06:39 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[T-Minus 17 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 17 Days</h1><p>The beauty of this small Earth excites me about the wonders of the massive Galaxy in which we live</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d72539f3-0c51-4aba-827c-f89ab7b37254.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d72539f3-0c51-4aba-827c-f89ab7b37254.jpg</link>
+            <guid isPermaLink="false">2052eaf0-e688-45e9-bc76-3e724153fea7</guid>
+            <pubDate>Sat, 23 Jul 2016 09:06:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[T-Minus 18 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 18 Days</h1><p>Don't tell me that man doesn't belong out there. Man belongs wherever he wants to go - and he'll do plenty well when he gets there.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png"></article>]]></description>
+            <description><![CDATA[<article><h1>T-Minus 18 Days</h1><p>Don't tell me that man doesn't belong out there. Man belongs wherever he wants to go - and he'll do plenty well when he gets there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d377bbd850fae1b4147165328a52c824/croprotate.png?cropheight=1074&cropwidth=1913&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png</link>
             <guid isPermaLink="false">408a357e-8217-4f4e-822a-0bd57eab2d06</guid>
             <pubDate>Fri, 22 Jul 2016 08:45:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/46fd81cd-51dc-4789-905f-12ad1b29ded7.jpg</link>
             <guid isPermaLink="false">516a5924-bf5f-4ea2-b8ed-8f59ba091104</guid>
             <pubDate>Sun, 17 Jul 2016 08:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 days until lift off ]]></title>
-            <description><![CDATA[<article><h1>25 days until lift off </h1><p>The thing I'll remember most about the flight is that it was fun. In fact, I'm sure it was the most fun that I'll ever have in my life. — Sally K.</p></article>]]></description>
-            <link>http://nomansexplorer.com/25-days-until-lift-off/index.html</link>
-            <guid isPermaLink="false">94a2f76d-3ad3-433d-99c8-817c5d49c729</guid>
-            <pubDate>Fri, 15 Jul 2016 08:51:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
