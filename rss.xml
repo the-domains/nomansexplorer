@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 11:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 07:00:59 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 15 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 15 Days</h1><p>Man did not walk on the moon because he needed to, man walked on the moon because he wanted to, and now he will walk across the universe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf9f273-7c4b-4e99-8b02-dcd027bcb668.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf9f273-7c4b-4e99-8b02-dcd027bcb668.jpg</link>
+            <guid isPermaLink="false">f8530bf6-eac5-4b2b-baf0-625c44eb55d6</guid>
+            <pubDate>Mon, 25 Jul 2016 07:00:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 16 Days]]></title>
@@ -68,13 +75,6 @@
             <link>http://nomansexplorer.com/21-days-until-lift-off/index.html</link>
             <guid isPermaLink="false">35b115dd-b2f1-4b71-9acc-f09541c1ddec</guid>
             <pubDate>Tue, 19 Jul 2016 08:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22 Days until Lift Off]]></title>
-            <description><![CDATA[<article><h1>22 Days until Lift Off</h1><p>In the future, the unknown will be known; Today, we live in the generation of the explorers and that is exciting!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1decd8c4-4293-4da8-b735-70b87ec6489f.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1decd8c4-4293-4da8-b735-70b87ec6489f.jpg</link>
-            <guid isPermaLink="false">57a004d7-2397-4f86-aafc-801b0e6d2107</guid>
-            <pubDate>Mon, 18 Jul 2016 07:49:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
