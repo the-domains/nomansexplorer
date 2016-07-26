@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 08:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 10:30:08 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 14 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 14 Days</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f437e70b-9f99-4f00-8ee5-28ff99e9cbcc.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f437e70b-9f99-4f00-8ee5-28ff99e9cbcc.jpg</link>
+            <guid isPermaLink="false">1dc1a1e2-d36b-438f-9dac-bb2c80466f24</guid>
+            <pubDate>Tue, 26 Jul 2016 10:30:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Man's Sky - TRADE Video | PS4]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c9fd914-9f86-433a-abaa-b799808ea720.jpg</link>
             <guid isPermaLink="false">da047930-d539-4214-9bd4-eff4472f6274</guid>
             <pubDate>Wed, 20 Jul 2016 09:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Man's Sky - EXPLORE Trailer | PS4]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky - EXPLORE Trailer | PS4</h1><p>https://www.playstation.com/en-us/games/no-mans-sky-ps4/ Your Universe Awaits There are 18 quintillion planets in the game. Even if each planet was visited at a rate of one per second, it would take five billion years to explore them all - by which the Sun in our solar system would have burnt out, essentially giving the game a near infinite number of worlds to explore!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f30b27565612b54a3c747a102ca5afff/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F7AVmI73va4g%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/7AVmI73va4g</link>
-            <guid isPermaLink="false">8e749c18-c0f8-4064-af8f-92145b5ca72d</guid>
-            <pubDate>Tue, 19 Jul 2016 12:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
