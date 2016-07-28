@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 10:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 10:11:05 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[T-Minus 12 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 12 Days</h1><p>It [the rocket] will free man from his remaining chains, the chains of gravity which still tie him to this planet. It will open to him the gates of heaven.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bf8c0d-303f-404c-b5a0-d74489c01f36.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bf8c0d-303f-404c-b5a0-d74489c01f36.jpg</link>
+            <guid isPermaLink="false">f838d807-ee94-4b93-b843-d1d10f7a7fe0</guid>
+            <pubDate>Thu, 28 Jul 2016 10:10:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No Man's Sky - SURVIVE Video | PS4]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky - SURVIVE Video | PS4</h1><p>https://www.playstation.com/en-us/games/no-mans-sky-ps4/ Your Universe Awaits While some planets are beautiful and serene, many have extreme conditions that make survival difficult. Some planets will have extreme temperatures - from freezing lows to scorching highs - while others are drenched in toxic rain, heavily irradiated or completely submerged.</p></article>]]></description>
+            <description><![CDATA[<article><h1>No Man's Sky - SURVIVE Video | PS4</h1><p>https://www.playstation.com/en-us/games/no-mans-sky-ps4/ Your Universe Awaits While some planets are beautiful and serene, many have extreme conditions that make survival difficult. Some planets will have extreme temperatures - from freezing lows to scorching highs - while others are drenched in toxic rain, heavily irradiated or completely submerged.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ef434d9a5f20d4dad952e0c427e899f/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F1jpHldhY_V0%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtu.be/1jpHldhY_V0</link>
             <guid isPermaLink="false">4a636d53-c560-4029-8847-efa860a8954d</guid>
             <pubDate>Thu, 28 Jul 2016 10:04:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png</link>
             <guid isPermaLink="false">408a357e-8217-4f4e-822a-0bd57eab2d06</guid>
             <pubDate>Fri, 22 Jul 2016 08:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Man's Sky | Pillar 2 - Fight Trailer]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky | Pillar 2 - Fight Trailer</h1><p>Fight to survive. Your universe awaits. Discover more: http://bit.ly/29MvItS Pre-order now: http://bit.ly/1T3vvBC Lands 10/08/16</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6042b703aba510e8845d0359288bb3be/croprotate.jpg?cropheight=933&cropwidth=1672&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFqrOeqGTRJM%2Fmaxresdefault.jpg&x=0&y=0"></article>]]></description>
-            <link>https://youtu.be/FqrOeqGTRJM</link>
-            <guid isPermaLink="false">5df67045-7ec9-4363-96e2-5a1cdd816523</guid>
-            <pubDate>Thu, 21 Jul 2016 09:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
