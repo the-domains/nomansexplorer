@@ -40,6 +40,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: No Mans Explorer
+title: No Man's Explorer
 description: Follow The Explorer
 purpose: []
