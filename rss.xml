@@ -4,7 +4,7 @@
         <description><![CDATA[No Mans Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 09:12:02 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85105855-1bd6-4f11-b084-b85e57739061.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/85105855-1bd6-4f11-b084-b85e57739061.jpg</link>
+            <guid isPermaLink="false">d37421c0-bc46-4271-b9a8-dfeb060ed55f</guid>
+            <pubDate>Fri, 29 Jul 2016 09:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 12 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d72539f3-0c51-4aba-827c-f89ab7b37254.jpg</link>
             <guid isPermaLink="false">2052eaf0-e688-45e9-bc76-3e724153fea7</guid>
             <pubDate>Sat, 23 Jul 2016 09:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 18 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 18 Days</h1><p>Don't tell me that man doesn't belong out there. Man belongs wherever he wants to go - and he'll do plenty well when he gets there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d377bbd850fae1b4147165328a52c824/croprotate.png?cropheight=1074&cropwidth=1913&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f53d063-28eb-4ff7-805a-9c0e6590f8ab.png</link>
-            <guid isPermaLink="false">408a357e-8217-4f4e-822a-0bd57eab2d06</guid>
-            <pubDate>Fri, 22 Jul 2016 08:45:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
