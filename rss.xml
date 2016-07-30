@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[No Mans Explorer]]></title>
-        <description><![CDATA[No Mans Explorer]]></description>
+        <title><![CDATA[No Man's Explorer]]></title>
+        <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 11:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 09:47:58 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 10 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 10 Days</h1><p>Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b39b41-5e42-4f4d-a74e-3ebe8b81da71.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b39b41-5e42-4f4d-a74e-3ebe8b81da71.jpg</link>
+            <guid isPermaLink="false">c5adc6ba-c919-484e-8137-0219c5716dce</guid>
+            <pubDate>Sat, 30 Jul 2016 09:47:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 11 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a4d4e95-6dab-49e1-bf1e-1eacd02ba199.jpg</link>
             <guid isPermaLink="false">8d1dabbb-ca9f-4ed9-b07e-df301fb1ffa3</guid>
             <pubDate>Sun, 24 Jul 2016 11:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 17 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 17 Days</h1><p>The beauty of this small Earth excites me about the wonders of the massive Galaxy in which we live</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d72539f3-0c51-4aba-827c-f89ab7b37254.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d72539f3-0c51-4aba-827c-f89ab7b37254.jpg</link>
-            <guid isPermaLink="false">2052eaf0-e688-45e9-bc76-3e724153fea7</guid>
-            <pubDate>Sat, 23 Jul 2016 09:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
