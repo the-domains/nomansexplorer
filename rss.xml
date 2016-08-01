@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 09:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 09:29:13 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d51ad8a-f760-45ba-8b83-6c67ca8fd36f.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d51ad8a-f760-45ba-8b83-6c67ca8fd36f.jpg</link>
+            <guid isPermaLink="false">0a8b5f3e-cfe1-4bf6-8337-3518b3a581ba</guid>
+            <pubDate>Mon, 01 Aug 2016 09:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 10 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf9f273-7c4b-4e99-8b02-dcd027bcb668.jpg</link>
             <guid isPermaLink="false">f8530bf6-eac5-4b2b-baf0-625c44eb55d6</guid>
             <pubDate>Mon, 25 Jul 2016 07:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 16 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 16 Days</h1><p>Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. That's our new frontier out there, and it's everybody's business to know about space.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a4d4e95-6dab-49e1-bf1e-1eacd02ba199.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a4d4e95-6dab-49e1-bf1e-1eacd02ba199.jpg</link>
-            <guid isPermaLink="false">8d1dabbb-ca9f-4ed9-b07e-df301fb1ffa3</guid>
-            <pubDate>Sun, 24 Jul 2016 11:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
