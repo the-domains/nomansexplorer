@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 09:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 09:36:10 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 8 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 8 Days</h1><p>The sky is the ultimate art gallery just above us.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d0c40c4-72fe-4f4a-bd3e-66367c030f5a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d0c40c4-72fe-4f4a-bd3e-66367c030f5a.jpg</link>
+            <guid isPermaLink="false">94078009-8fe9-409e-a30f-9553010e6044</guid>
+            <pubDate>Tue, 02 Aug 2016 09:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 9 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/S_Oaf6Ol8U4</link>
             <guid isPermaLink="false">92e0d822-1445-453b-b54b-b78515c49c89</guid>
             <pubDate>Mon, 25 Jul 2016 08:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 15 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 15 Days</h1><p>Man did not walk on the moon because he needed to, man walked on the moon because he wanted to, and now he will walk across the universe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf9f273-7c4b-4e99-8b02-dcd027bcb668.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf9f273-7c4b-4e99-8b02-dcd027bcb668.jpg</link>
-            <guid isPermaLink="false">f8530bf6-eac5-4b2b-baf0-625c44eb55d6</guid>
-            <pubDate>Mon, 25 Jul 2016 07:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
