@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 09:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 09:52:24 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 7 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 7 Days</h1><p>The wonder is, not that the field of stars of so vast, but that man has measured it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/880b47f9-7def-4b24-9806-5885649ba52c.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/880b47f9-7def-4b24-9806-5885649ba52c.png</link>
+            <guid isPermaLink="false">9f266bd4-3436-4673-a02c-45383add02d4</guid>
+            <pubDate>Wed, 03 Aug 2016 09:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 8 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f437e70b-9f99-4f00-8ee5-28ff99e9cbcc.jpg</link>
             <guid isPermaLink="false">1dc1a1e2-d36b-438f-9dac-bb2c80466f24</guid>
             <pubDate>Tue, 26 Jul 2016 10:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Man's Sky - TRADE Video | PS4]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky - TRADE Video | PS4</h1><p>https://www.playstation.com/en-us/games/no-mans-sky-ps4/ Your Universe Awaits Resources are a vital part of exploration, trading and survival. No Man's Sky has its own periodic table of elements - some familiar to our world, some new and unknown - and each one is used in different ways.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8aad4724b4696510dc5a928c4dc245f/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FS_Oaf6Ol8U4%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/S_Oaf6Ol8U4</link>
-            <guid isPermaLink="false">92e0d822-1445-453b-b54b-b78515c49c89</guid>
-            <pubDate>Mon, 25 Jul 2016 08:20:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
