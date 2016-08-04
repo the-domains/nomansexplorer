@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 09:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 08:35:10 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T-Minus 6 Days]]></title>
+            <description><![CDATA[<article><h1>T-Minus 6 Days</h1><p>Above me I saw something I did not believe at first. Well above the haze layer of the earth's atmosphere were additional faint thin bands of blue, sharply etched against the dark sky. They hovered over the earth like a succession of halos.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad0ee49-0700-43f1-9fb2-107d472e25b7.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad0ee49-0700-43f1-9fb2-107d472e25b7.jpg</link>
+            <guid isPermaLink="false">086d914c-f79d-41c1-9f75-313edbcefb1c</guid>
+            <pubDate>Thu, 04 Aug 2016 08:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 7 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7818d2b-7a82-473d-92d6-02a5fc516722.jpg</link>
             <guid isPermaLink="false">08ea38fd-b895-49fa-a18c-07b2a10c3015</guid>
             <pubDate>Wed, 27 Jul 2016 08:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 14 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 14 Days</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f437e70b-9f99-4f00-8ee5-28ff99e9cbcc.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f437e70b-9f99-4f00-8ee5-28ff99e9cbcc.jpg</link>
-            <guid isPermaLink="false">1dc1a1e2-d36b-438f-9dac-bb2c80466f24</guid>
-            <pubDate>Tue, 26 Jul 2016 10:30:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
