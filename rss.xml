@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 08:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 16:13:35 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update 1.03]]></title>
+            <description><![CDATA[<article><h1>Update 1.03</h1><p>Update 1.03 When we went gold five or six week ago, we posted on twitter, and literally every reply was like "hope you are going on a nice holiday!". Some of us have, but I didn't want to, not yet....</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
+            <link>http://www.no-mans-sky.com/2016/08/update-1-03/</link>
+            <guid isPermaLink="false">eaddfdd3-20e5-47e7-bf3f-2f4180a30992</guid>
+            <pubDate>Sun, 07 Aug 2016 16:13:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[T-Minus 6 Days]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/1jpHldhY_V0</link>
             <guid isPermaLink="false">4a636d53-c560-4029-8847-efa860a8954d</guid>
             <pubDate>Thu, 28 Jul 2016 10:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 13 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 13 Days</h1><p>Some say that we should stop exploring space, that the cost in human lives is too great. But Columbia's crew would not have wanted that. We are a curious species, always wanting to know what is over the next hill, around the next corner, on the next island. And we have been that way for thousands of years.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7818d2b-7a82-473d-92d6-02a5fc516722.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7818d2b-7a82-473d-92d6-02a5fc516722.jpg</link>
-            <guid isPermaLink="false">08ea38fd-b895-49fa-a18c-07b2a10c3015</guid>
-            <pubDate>Wed, 27 Jul 2016 08:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
