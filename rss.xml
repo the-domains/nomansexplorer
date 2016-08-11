@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 09:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 09:15:53 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://nomansexplorer.com/877f1378-4a76-453f-9b82-86b2ecd980e2/index.html</link>
             <guid isPermaLink="false">877f1378-4a76-453f-9b82-86b2ecd980e2</guid>
             <pubDate>Thu, 11 Aug 2016 09:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f88457a-56aa-4231-908a-6b25b2314ff1.jpg">]]></description>
+            <link>http://nomansexplorer.com/32f5038f-8928-4064-8973-fb951611d619/index.html</link>
+            <guid isPermaLink="false">32f5038f-8928-4064-8973-fb951611d619</guid>
+            <pubDate>Thu, 11 Aug 2016 09:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Update 1.03]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/85105855-1bd6-4f11-b084-b85e57739061.jpg</link>
             <guid isPermaLink="false">d37421c0-bc46-4271-b9a8-dfeb060ed55f</guid>
             <pubDate>Fri, 29 Jul 2016 11:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 12 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 12 Days</h1><p>It [the rocket] will free man from his remaining chains, the chains of gravity which still tie him to this planet. It will open to him the gates of heaven.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bf8c0d-303f-404c-b5a0-d74489c01f36.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bf8c0d-303f-404c-b5a0-d74489c01f36.jpg</link>
-            <guid isPermaLink="false">f838d807-ee94-4b93-b843-d1d10f7a7fe0</guid>
-            <pubDate>Thu, 28 Jul 2016 10:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
