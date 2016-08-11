@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 09:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 09:16:14 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>http://nomansexplorer.com/32f5038f-8928-4064-8973-fb951611d619/index.html</link>
             <guid isPermaLink="false">32f5038f-8928-4064-8973-fb951611d619</guid>
             <pubDate>Thu, 11 Aug 2016 09:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07937fb9-e480-4873-94ce-b9a453e6f41e.jpg">]]></description>
+            <link>http://nomansexplorer.com/b3a245ba-abe4-4a34-94c9-97fce49a71b1/index.html</link>
+            <guid isPermaLink="false">b3a245ba-abe4-4a34-94c9-97fce49a71b1</guid>
+            <pubDate>Thu, 11 Aug 2016 09:15:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d51ad8a-f760-45ba-8b83-6c67ca8fd36f.jpg</link>
             <guid isPermaLink="false">0a8b5f3e-cfe1-4bf6-8337-3518b3a581ba</guid>
             <pubDate>Mon, 01 Aug 2016 09:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 10 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 10 Days</h1><p>Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b39b41-5e42-4f4d-a74e-3ebe8b81da71.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b39b41-5e42-4f4d-a74e-3ebe8b81da71.jpg</link>
-            <guid isPermaLink="false">c5adc6ba-c919-484e-8137-0219c5716dce</guid>
-            <pubDate>Sat, 30 Jul 2016 09:47:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
