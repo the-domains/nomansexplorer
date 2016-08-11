@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 09:16:18 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,6 +43,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33faddca-d8f4-4a57-866a-ec272ffdc354.jpg">]]></description>
+            <link>http://nomansexplorer.com/1b0e2992-527e-488e-81e3-df6422ba6d92/index.html</link>
+            <guid isPermaLink="false">1b0e2992-527e-488e-81e3-df6422ba6d92</guid>
+            <pubDate>Thu, 11 Aug 2016 09:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50be88fb-c287-4e0f-b65a-16ec1724b142.jpg">]]></description>
             <link>http://nomansexplorer.com/2029ed93-93b0-4b52-a3a1-6a7e516af096/index.html</link>
             <guid isPermaLink="false">2029ed93-93b0-4b52-a3a1-6a7e516af096</guid>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad0ee49-0700-43f1-9fb2-107d472e25b7.jpg</link>
             <guid isPermaLink="false">086d914c-f79d-41c1-9f75-313edbcefb1c</guid>
             <pubDate>Thu, 04 Aug 2016 08:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Minus 7 Days]]></title>
-            <description><![CDATA[<article><h1>T-Minus 7 Days</h1><p>The wonder is, not that the field of stars of so vast, but that man has measured it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/880b47f9-7def-4b24-9806-5885649ba52c.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/880b47f9-7def-4b24-9806-5885649ba52c.png</link>
-            <guid isPermaLink="false">9f266bd4-3436-4673-a02c-45383add02d4</guid>
-            <pubDate>Wed, 03 Aug 2016 09:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
