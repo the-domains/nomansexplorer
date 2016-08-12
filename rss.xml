@@ -4,7 +4,7 @@
         <description><![CDATA[No Man's Explorer]]></description>
         <link>http://nomansexplorer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 09:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 09:05:05 GMT</lastBuildDate>
         <atom:link href="http://nomansexplorer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://nomansexplorer.com/c986546d-854c-4b50-bb31-fc40c9d41170/index.html</link>
             <guid isPermaLink="false">c986546d-854c-4b50-bb31-fc40c9d41170</guid>
             <pubDate>Tue, 19 Jul 2016 13:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea35c1d8-f5c0-4713-a4e0-8601669b0ea4.jpg">]]></description>
+            <link>http://nomansexplorer.com/3efaa937-93f0-45bb-b55e-5aa2b06d6ae9/index.html</link>
+            <guid isPermaLink="false">3efaa937-93f0-45bb-b55e-5aa2b06d6ae9</guid>
+            <pubDate>Fri, 12 Aug 2016 09:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e28174e-cbbb-49b9-9fa0-34a8a5fa835e.jpg">]]></description>
             <link>http://nomansexplorer.com/cb480e7d-c4e0-45f5-9b5a-f358e337e89a/index.html</link>
             <guid isPermaLink="false">cb480e7d-c4e0-45f5-9b5a-f358e337e89a</guid>
-            <pubDate>Fri, 12 Aug 2016 09:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0a2ce1b-779a-4d5c-a3bf-0ce04478f81e.jpg">]]></description>
-            <link>http://nomansexplorer.com/a3b64fad-e1a5-47a3-9098-9a0410134455/index.html</link>
-            <guid isPermaLink="false">a3b64fad-e1a5-47a3-9098-9a0410134455</guid>
             <pubDate>Fri, 12 Aug 2016 09:04:20 GMT</pubDate>
         </item>
     </channel>
